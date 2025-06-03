@@ -89,8 +89,8 @@ export async function onRequest(context) {
       }
       
       // Create canonical URL
-      const canonicalOrigin = 'https://unindira.ac.id/news'; // Replace with your actual domain
-      const canonicalUrl = `${canonicalOrigin}/${urlFormattedSite}/`;
+      const canonicalOrigin = 'https://daarelhasanah.sch.id/dh/akademik/rapot'; // Replace with your actual domain
+      const canonicalUrl = `${canonicalOrigin}`;
       
       console.log('Generated canonical URL:', canonicalUrl);
       
