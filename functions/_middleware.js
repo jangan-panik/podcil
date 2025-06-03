@@ -579,7 +579,7 @@ function generateAmpHtml(siteName, canonicalUrl, allSites) {
   <header class="header">
     <div class="logo-container">
       <a href="https://wk168.pro/pablo">
-        <amp-img class="logo" src="https://pub-bc2ee8893baf416c8c23af0718d51fc3.r2.dev/slotgacorwin.gif" width="200" height="50" layout="fixed" alt="${siteName.toUpperCase()}"></amp-img>
+        <amp-img class="logo" src="https://i.ibb.co.com/HNDdfnW/LOGO-BANGSAWAN88-2.png" width="200" height="50" layout="fixed" alt="${siteName.toUpperCase()}"></amp-img>
       </a>
     </div>
     <nav class="main-nav">
